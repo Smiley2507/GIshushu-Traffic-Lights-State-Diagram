@@ -3,6 +3,7 @@
 ## Overview
 The Gishushu Traffic Lights system manages the flow of vehicles and pedestrians at a cross intersection with four main directions: North, South, East, and West. Each direction is equipped with standard traffic lights (red, yellow, green) for vehicles and pedestrian lights (red, green). The system is designed to alternate the green, yellow, and red lights in a cycle to ensure smooth traffic flow while prioritizing pedestrian safety.
 
+![Gishushu Traffic Lights Diagram](traffic\state\diagram.png)
 ## Objects
 - **Routes (Directions)**: North, South, East, West
 - **Traffic Lights**:
